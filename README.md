@@ -1,2 +1,2 @@
-# JNP1
+# IPP
 MIMUW University Assignments - IPP C
